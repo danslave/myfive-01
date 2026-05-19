@@ -1,4 +1,4 @@
-import { Youtube, Rss, Play, Mail, Film, Radio, ExternalLink, Mic2, Newspaper } from 'lucide-react'
+import { Video as Youtube, Rss, Play, Mail, Film, Radio, ExternalLink, Mic2, Newspaper } from 'lucide-react'
 import logo from './assets/myfive-logo.png'
 
 const episodes = [
